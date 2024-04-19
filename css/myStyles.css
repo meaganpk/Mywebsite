@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+}
+h1{
+   font-family: Arial, Helvetica, sans-serif; 
+   color: black;
+}
+h3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(221, 108, 127)
+    
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    color:gray
+}
